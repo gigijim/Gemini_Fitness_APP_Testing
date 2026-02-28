@@ -1,0 +1,16 @@
+{
+  "name": "吉米的訓練計畫",
+  "short_name": "吉米訓練",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBF8F5",
+  "theme_color": "#B68D6D",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
